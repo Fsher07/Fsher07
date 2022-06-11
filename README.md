@@ -9,7 +9,7 @@ Hi there, I'm currently working towards becoming a Full-Stack Software Developer
 ```javascript
 const aboutSalim = {
 job: ['looking for my next opportunity'], 
-languages: ['english', 'turkish', 'HTML', 'CSS', 'Javascript', 'Ruby on Rails', 'React & Redux'],
+languages: ['HTML', 'CSS', 'Javascript', 'Ruby on Rails', 'React & Redux'],
 }
 ```
 ## Github Stats
@@ -21,6 +21,4 @@ languages: ['english', 'turkish', 'HTML', 'CSS', 'Javascript', 'Ruby on Rails', 
 <a href="https://fsher07.github.io/" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/itch_io.svg" alt="linkedIn" width="40" height="40"/> </a>
 <a href="mailto:furkansalimm@gmail.com?subject=subject&cc=Hi" target="_blank"> <img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="linkedIn" width="40" height="40"/> </a><br/>
 
-
-✨ _special_ ✨ 
 
