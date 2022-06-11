@@ -19,7 +19,7 @@ languages: ['english', 'turkish', 'HTML', 'CSS', 'Javascript', 'Ruby on Rails', 
 <h3>Contact Me:</h3>
 <a href="https://www.linkedin.com/in/fsalimhidir/" target="_top"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
 <a href="https://fsher07.github.io/" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/itch_io.svg" alt="linkedIn" width="40" height="40"/> </a>
-<a href="mailto:furkansalimm@gmail.com?subject=subject&cc=cc@example.com" target="_blank"> <img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="linkedIn" width="40" height="40"/> </a><br/>
+<a href="mailto:furkansalimm@gmail.com?subject=subject&cc=Hi" target="_blank"> <img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="linkedIn" width="40" height="40"/> </a><br/>
 
 
 ✨ _special_ ✨ 
