@@ -9,7 +9,7 @@ Hi there, I'm currently working towards becoming a Full-Stack Software Developer
 ```javascript
 const aboutSalim = {
 job: ['looking for my next opportunity'], 
-technologies: ['HTML', 'CSS', 'Javascript', 'Ruby on Rails', 'React & Redux'],
+technologies: ['HTML', 'CSS', 'Javascript', 'Ruby on Rails', 'React & Redux', 'React Native', 'Sanity', 'Tailwind CSS'],
 }
 ```
 ## Github Stats
