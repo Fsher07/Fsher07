@@ -8,7 +8,7 @@ Hi there, I'm currently working towards becoming a Full-Stack Software Developer
 
 ```javascript
 const aboutSalim = {
-job: ['looking for my next opportunity'], 
+job: ['Developer in Wunder Innovation Studio'], 
 technologies: ['HTML', 'CSS', 'Javascript', 'Ruby on Rails', 'React & Redux', 'React Native', 'Sanity', 'Tailwind CSS'],
 }
 ```
